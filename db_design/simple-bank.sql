@@ -1,4 +1,4 @@
-//created_using_https://dbdiagram.io/d
+/*created_using_https://dbdiagram.io/d*/
 
 CREATE TABLE "accounts" (
   "id" bigserial PRIMARY KEY,
